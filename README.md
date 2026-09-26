@@ -60,4 +60,12 @@ These tools demonstrate how password hashes are generated and how password-crack
 
 * Windows PC / Kali Linux
   # EVIDENCES
-  
+  <img width="1920" height="936" alt="networkwalks cracked 2" src="https://github.com/user-attachments/assets/ff87e982-e959-42fd-bb6b-1f18e9f86b3a" />
+<img width="1909" height="924" alt="networkwalks cracked" src="https://github.com/user-attachments/assets/707ffd1a-7950-4f21-8cf8-b87c6ab4f9e5" />
+<img width="1920" height="919" alt="cracked3" src="https://github.com/user-attachments/assets/438435e9-475e-4037-9288-ba0a038daa5d" />
+<img width="1920" height="931" alt="cracked2" src="https://github.com/user-attachments/assets/71911fd7-df51-4e0f-9ae4-8fe5894c301d" />
+<img width="1920" height="902" alt="cracked1" src="https://github.com/user-attachments/assets/fb010986-3750-4d31-8246-b2a9521d19a7" />
+<img width="1920" height="1080" alt="crack 3" src="https://github.com/user-attachments/assets/0bac4733-1e76-480c-9262-08ac824a8850" />
+<img width="1920" height="1080" alt="crack 2" src="https://github.com/user-attachments/assets/640f64aa-5ca6-4f6b-a707-7b7241c8cf5f" />
+<img width="1920" height="1080" alt="crack1" src="https://github.com/user-attachments/assets/b8322f20-ed87-4341-a812-25be41430998" />
+
