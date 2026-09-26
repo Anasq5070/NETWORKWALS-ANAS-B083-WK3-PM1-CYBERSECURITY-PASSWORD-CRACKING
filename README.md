@@ -69,3 +69,11 @@ These tools demonstrate how password hashes are generated and how password-crack
 <img width="1920" height="1080" alt="crack 2" src="https://github.com/user-attachments/assets/640f64aa-5ca6-4f6b-a707-7b7241c8cf5f" />
 <img width="1920" height="1080" alt="crack1" src="https://github.com/user-attachments/assets/b8322f20-ed87-4341-a812-25be41430998" />
 
+# 👤 Author
+
+**Anas Qureshi**\
+Cybersecurity Student B083
+www.linkedin.com/in/anas-qureshi-56595b302
+
+
+
